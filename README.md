@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DanielNevo/DanielNevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 #📫 Want to connect or see some of my work? Drop me a message: danielnev51@gmail.com
 
 #🔒 Most of my repos are private, but happy to share if you're curious!
--->
