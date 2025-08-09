@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
+
 
 #🕵️‍♀️ I am working today as a System Administrator at Elbissis Company.
 
